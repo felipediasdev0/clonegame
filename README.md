@@ -1,6 +1,6 @@
-===========================
+
 🧬 CLONE GAME - PYGAME
-===========================
+
 
 Clone Game é um mini game feito com Python e Pygame onde o jogador precisa sobreviver o máximo de tempo possível enquanto clones perseguem seus passos anteriores. Cada movimento pode se tornar uma armadilha futura — pense rápido, mova com estratégia e vença a si mesmo!
 
